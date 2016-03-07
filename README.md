@@ -1,7 +1,7 @@
 Enables Hibernate Statistics JMX bean for vRealize Orchestrator 5.5.x
 
 How to use it :
-1. Copy the vro-database-statistics.jar file into '{vRO Instalation}/app-server/deploy/vco/WEB-INF/lib' folder
+1. Copy the o11n-monitoring-db.jar file into '{vRO Instalation}/app-server/deploy/vco/WEB-INF/lib' folder
 2. Restart vRO Server
 3. Open jconsole and connect to vRO server JMX 
 4. Locate Hibernate->Statistics bean
